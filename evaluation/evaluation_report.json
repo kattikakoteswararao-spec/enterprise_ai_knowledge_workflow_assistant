@@ -1,0 +1,409 @@
+{
+  "total_questions": 50,
+  "passed": 50,
+  "failed": 0,
+  "accuracy_percent": 100.0,
+  "average_latency_ms": 0.4,
+  "results": [
+    {
+      "question": "How many annual leave days do employees receive?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.53,
+      "error": null
+    },
+    {
+      "question": "Who must approve leave requests?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.46,
+      "error": null
+    },
+    {
+      "question": "Can employees request work from home?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.43,
+      "error": null
+    },
+    {
+      "question": "What is the annual leave policy?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.4,
+      "error": null
+    },
+    {
+      "question": "Can managers approve leave requests?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.4,
+      "error": null
+    },
+    {
+      "question": "How many days of annual leave are provided?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.46,
+      "error": null
+    },
+    {
+      "question": "Who approves employee leave?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.39,
+      "error": null
+    },
+    {
+      "question": "Is remote work allowed?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.4,
+      "error": null
+    },
+    {
+      "question": "Can staff work from home?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.37,
+      "error": null
+    },
+    {
+      "question": "What happens when employees request leave?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.37,
+      "error": null
+    },
+    {
+      "question": "How much annual leave can an employee take?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.37,
+      "error": null
+    },
+    {
+      "question": "Who is responsible for approving leave?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.33,
+      "error": null
+    },
+    {
+      "question": "Does the company allow working remotely?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.33,
+      "error": null
+    },
+    {
+      "question": "How many vacation days are available?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.37,
+      "error": null
+    },
+    {
+      "question": "Can an employee ask to work remotely?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.33,
+      "error": null
+    },
+    {
+      "question": "Who reviews leave applications?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.41,
+      "error": null
+    },
+    {
+      "question": "What is the employee leave entitlement?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.34,
+      "error": null
+    },
+    {
+      "question": "Are work-from-home requests permitted?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.33,
+      "error": null
+    },
+    {
+      "question": "Who should approve an employee vacation?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.36,
+      "error": null
+    },
+    {
+      "question": "What is the yearly leave allowance?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.33,
+      "error": null
+    },
+    {
+      "question": "Is home working permitted by the policy?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.34,
+      "error": null
+    },
+    {
+      "question": "Who approves time-off requests?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.37,
+      "error": null
+    },
+    {
+      "question": "How many annual vacation days do staff get?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.33,
+      "error": null
+    },
+    {
+      "question": "Can staff submit work-from-home requests?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.33,
+      "error": null
+    },
+    {
+      "question": "Which person approves leave?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.38,
+      "error": null
+    },
+    {
+      "question": "What annual leave benefit do employees receive?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.55,
+      "error": null
+    },
+    {
+      "question": "Does the company support remote working?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.46,
+      "error": null
+    },
+    {
+      "question": "Who authorizes annual leave?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.43,
+      "error": null
+    },
+    {
+      "question": "How much paid annual leave is provided?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.46,
+      "error": null
+    },
+    {
+      "question": "Can employees request remote work arrangements?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.48,
+      "error": null
+    },
+    {
+      "question": "Who needs to approve a leave application?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.46,
+      "error": null
+    },
+    {
+      "question": "What is the annual time-off allowance?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.38,
+      "error": null
+    },
+    {
+      "question": "Are employees allowed to work at home?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.41,
+      "error": null
+    },
+    {
+      "question": "Who makes leave approval decisions?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.43,
+      "error": null
+    },
+    {
+      "question": "How many leave days does the policy provide?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.38,
+      "error": null
+    },
+    {
+      "question": "Is working from home an available option?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.41,
+      "error": null
+    },
+    {
+      "question": "Who is the leave approval authority?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.4,
+      "error": null
+    },
+    {
+      "question": "How many days off are given annually?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.43,
+      "error": null
+    },
+    {
+      "question": "Can employees work remotely from home?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.43,
+      "error": null
+    },
+    {
+      "question": "Who must authorize employee leave?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.4,
+      "error": null
+    },
+    {
+      "question": "What is the number of annual leave days?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.4,
+      "error": null
+    },
+    {
+      "question": "Does the policy mention work from home?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.34,
+      "error": null
+    },
+    {
+      "question": "Who handles leave approvals?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.34,
+      "error": null
+    },
+    {
+      "question": "What is the yearly vacation entitlement?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.45,
+      "error": null
+    },
+    {
+      "question": "May employees ask to work from home?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.36,
+      "error": null
+    },
+    {
+      "question": "Who approves staff leave requests?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.39,
+      "error": null
+    },
+    {
+      "question": "How many annual leave days are allowed?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.37,
+      "error": null
+    },
+    {
+      "question": "Can workers request home-based work?",
+      "expected": "work from home",
+      "answer": "2. work from home\nemployees may request work from home with manager approval.\nemployees must follow company security policies while working remotely.",
+      "passed": true,
+      "latency_ms": 0.38,
+      "error": null
+    },
+    {
+      "question": "Who signs off on leave requests?",
+      "expected": "manager",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.41,
+      "error": null
+    },
+    {
+      "question": "What is the company's annual leave allowance?",
+      "expected": "20 days",
+      "answer": "1. annual leave\nemployees are entitled to 20 days of annual leave per year.\nleave requests must be submitted to the manager for approval.",
+      "passed": true,
+      "latency_ms": 0.42,
+      "error": null
+    }
+  ]
+}
