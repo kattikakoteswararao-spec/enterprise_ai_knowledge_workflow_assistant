@@ -1,0 +1,21 @@
+1. Annual Leave
+Employees are entitled to 20 days of annual leave per year.
+Leave requests must be submitted to the manager for approval.
+
+
+2. Work From Home
+Employees may request work from home with manager approval.
+Employees must follow company security policies while working remotely.
+
+
+3. Password Security
+Employees must use strong passwords and must never share passwords.
+Passwords must be kept confidential.
+
+
+4. Security Incidents
+Employees must report suspected security incidents to the IT security team immediately.
+
+
+5. Training
+Employees must complete the mandatory security awareness training every year.
